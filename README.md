@@ -1,5 +1,7 @@
 # SI-GuidedProject-337150-1665737452
 [Customer Segmentation using IBM  Watson Machine Learning]
+
+
 In today’s highly competitive world, the primal aim of any business is to grab potential customers who can generate profits for the organization.
 With increasing the number of organizations in the market, companies want to gain a competitive advantage over others.
 The primal task of Management is to identify potential customers from the rest.
