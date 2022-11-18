@@ -11,6 +11,7 @@ This project deals with understanding and segmenting the customers based on the 
 The Model we built will be able to classify the customer’s potentiality in purchasing power.
 We will be using classification algorithms such as H-clustering, k-means clustering Decision tree, Random forest, KNN, and xgboost. We will train and test the data with these algorithms. From this best model is selected and saved in pkl format. Once the model is saved, we integrate it with the flask application and also deploy the model in IBM.
 
+PROJECT OBJECTIVES:
 By the end of this project:
 
 ·         This project enables the learner to understand the business use case of how and why to segment the customers.
@@ -28,3 +29,62 @@ By the end of this project:
 ·         You will be able to know how to find the accuracy of the model.
 
 ·         You will be able to know how to build a web application using the Flask framework.
+
+PROJECT FLOW:
+·         User interacts with the UI (User Interface) to enter the input values
+
+·         Entered input values are analyzed by the model which is integrated
+
+·         Once the model analyses the input, the prediction is showcased on the UI
+
+To accomplish this, we have to complete all the activities and tasks listed below
+
+·         Data Collection.
+
+o   Collect the dataset or Create the dataset
+
+·         Data Pre-processing.
+
+o   Import the Libraries.
+
+o   Importing the dataset.
+
+o   Checking for Null Values.
+
+o   Data Visualization.
+
+o   Taking care of Missing Data.
+
+o   Feature Scaling.
+
+·         Unsupervised Model Building
+
+o   Import the model building Libraries
+
+o   Initializing the model
+
+o   Fit and predict the clusters
+
+o   Add the classes to the main data set and save the dataset
+
+o   Splitting x and y
+
+o   Splitting train and test data
+
+·         Supervised Model Building
+
+o   Import the model building Libraries
+
+o   Initializing the model
+
+o   Model Training
+
+o   Evaluating the Model
+
+o   Save the Model
+
+·         Application Building
+
+o   Create an HTML file
+
+o   Build a Python Code
