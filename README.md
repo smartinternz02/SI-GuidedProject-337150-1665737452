@@ -10,3 +10,21 @@ The intervention of Data Science and AI helps the business to build such models 
 This project deals with understanding and segmenting the customers based on the data.
 The Model we built will be able to classify the customer’s potentiality in purchasing power.
 We will be using classification algorithms such as H-clustering, k-means clustering Decision tree, Random forest, KNN, and xgboost. We will train and test the data with these algorithms. From this best model is selected and saved in pkl format. Once the model is saved, we integrate it with the flask application and also deploy the model in IBM.
+
+By the end of this project:
+
+·         This project enables the learner to understand the business use case of how and why to segment the customers.
+
+·         You’ll able to understand the unsupervised learning methods such as H-clustering and k-means clustering
+
+·         You’ll be able to understand the problem to classify if it is a regression or a classification kind of problem.
+
+·         You will be able to know how to pre-process/clean the data using different data pre-processing techniques.
+
+·         You will be able to analyze or get insights into data through visualization.
+
+·         Applying different algorithms according to a dataset and based on visualization.
+
+·         You will be able to know how to find the accuracy of the model.
+
+·         You will be able to know how to build a web application using the Flask framework.
