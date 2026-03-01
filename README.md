@@ -1,16 +1,5 @@
-# 👥 Customer Segmentation using IBM Watson Machine Learning
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C2FF&center=true&vCenter=true&width=750&lines=Customer+Segmentation+System;Machine+Learning+Project;IBM+Watson+Deployment;Flask+Web+Application;Data+Driven+Business+Insights">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/Machine_Learning-Scikit_Learn-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Flask-Web_App-black?style=for-the-badge&logo=flask">
-  <img src="https://img.shields.io/badge/IBM-Watson-lightgrey?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
-</p>
+👥 Customer Segmentation using IBM Watson Machine Learning
+<p align="center"> <b>A Machine Learning System to Segment Customers for Business Decisions</b><br> Built with Python • ML Algorithms • Flask Web App • IBM Watson Deployment </p> <p align="center"> <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/Machine_Learning-ML-green?style=for-the-badge"> <img src="https://img.shields.io/badge/Flask_Web_App-black?style=for-the-badge"> <img src="https://img.shields.io/badge/IBM_Watson-Deployment-lightgrey?style=for-the-badge"> </p>
 
 ---
 
