@@ -18,7 +18,7 @@
 
 Customer Segmentation using IBM Watson Machine Learning is a data science project designed to help businesses identify different customer groups based on purchasing behavior and demographic profiles. By segmenting customers, companies can optimize marketing strategies, increase retention, and improve revenue.
 
-This project explores unsupervised and supervised machine learning methods and integrates the best model into a Flask web application and IBM Watson deployment. ([GitHub][1])
+This project explores unsupervised and supervised machine learning methods and integrates the best model into a Flask web application and IBM Watson deployment.
 
 ---
 
